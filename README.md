@@ -20,3 +20,19 @@ A static website for a café hosted on **Amazon S3** with best practices:
 5) Enabled **Cross-Region Replication** to a bucket in another region
 
 > Screenshots are in the `docs/` folder.
+## Screenshots
+- Static website hosting enabled  
+  ![Website hosting](docs/endpoint.png)
+
+- Public read via bucket policy  
+  ![Bucket policy](docs/bucket-policy.png)
+
+- Versioning & object versions  
+  ![Versions](docs/versions.png)
+
+- Lifecycle rules  
+  ![Lifecycle](docs/lifecycle.png)
+
+- Replication rule  
+  ![Replication](docs/replication.png)
+
