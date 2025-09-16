@@ -19,7 +19,6 @@ A static website for a café hosted on **Amazon S3** with best practices:
 4) Configured **Lifecycle** (move previous versions to Standard-IA after 30 days, expire after 365 days)  
 5) Enabled **Cross-Region Replication** to a bucket in another region
 
-> Screenshots are in the `docs/` folder.
 ## Screenshots
 - Static website hosting enabled  
   ![Website hosting](docs/endpoint.png)
