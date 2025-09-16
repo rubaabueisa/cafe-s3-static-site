@@ -9,7 +9,8 @@ A static website for a café hosted on **Amazon S3** with best practices:
 
 ## Structure
 - `index.html`
-- `images/` (and `css/`)
+- `images/`
+- `css/`
 
 ## How I deployed
 1) Created an S3 bucket (us-east-1) and enabled **Static website hosting**  
